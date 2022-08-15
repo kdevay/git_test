@@ -1,2 +1,3 @@
 # git_test
-Odin_assignment
+My first GitHub repo!
+Hello Odin!
